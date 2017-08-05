@@ -17,6 +17,7 @@ module GHCJS.DOM.EventM
 , removeListener
 , releaseListener
 , on
+, onThese
 -- * DOM Event interface
 , event
 , eventTarget
